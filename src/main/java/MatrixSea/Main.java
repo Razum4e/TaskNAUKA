@@ -1,3 +1,5 @@
+package MatrixSea;
+
 //Поиск количества островов
 public class Main {
     private static final int[][] MATRIX = { //дано "море" в виде двумерного массива - матрицы
